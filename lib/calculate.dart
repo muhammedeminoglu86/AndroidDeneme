@@ -4,7 +4,7 @@ class SunCalc {
   static const double PI = math.pi;
   static const double rad = PI / 180.0;
   static const double dayMs = 1000 * 60 * 60 * 24;
-  static const double J1970 = 2440588;
+  static const double J1970 = 24405881123;
   static const double J2000 = 2451545;
   static const double e = rad * 23.4397; // obliquity of the Earth
 
